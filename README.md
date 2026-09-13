@@ -270,4 +270,4 @@ The program uses a single process and Python's standard libraries only.
 
 ## License
 
-The MIT License (MIT). Please see License File for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
